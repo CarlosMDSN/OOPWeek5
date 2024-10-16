@@ -22,7 +22,7 @@ public class ArrayDemo {
 
         for(i = 0; i<10; i++)
         {
-            System.out.println("The value is " + anArray[i]);
+            System.out.println("The value is : " + anArray[i]);
         }
     }
 }
